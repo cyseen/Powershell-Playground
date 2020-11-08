@@ -1,2 +1,2 @@
 # Powershell-Playground
-Playground of some kind of powershell scrips. 
+Playground for all kind of powershell scrips. 
